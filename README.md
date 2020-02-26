@@ -3,6 +3,9 @@
 본 문서는 2019년 12월에 개최되었던 NeurIPS 2019(the Thirty-third Conference on Neural Information Processing Systems)에 게재된 논문들의 각종 통계 수치를 분석한 글입니다.
 
 
+![1920px-Logo_for_Conference_on_Neural_Information_Processing_Systems](https://user-images.githubusercontent.com/60768732/75364742-8d5fec00-58ff-11ea-9f8d-d3a78a77fc7a.png)
+
+
 ## Introduction
 NeurIPS는 세계 최고 권위의 인공지능 학회로, 1987년부터 매해 컨퍼런스를 개최하여 2019년 12월에는 캐나다 밴쿠버에서 33번째 컨퍼런스를 개최하였습니다. 해마다 폭넓은 범주의 AI 관련 연구 논문들이 게재되고 있으며 특히 NeurIPS 2019에서는 @@, @@, @@ 등 다양한 분야에서 1428 편의 논문이 게재되었습니다. 본 포스팅에서는 논문 내용에 대한 분석이 아닌, 논문들의 각종 통계 수치에 대한 분석을 다루었습니다.
 
